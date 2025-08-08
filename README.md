@@ -44,3 +44,14 @@ cd -modelo-instagram-bootcamp2025
 pipenv install
 pipenv shell
 pipenv run python render.py
+
+
+📌 Sobre el modelo
+Este diseño forma parte de la capa de modelo en una arquitectura tipo MVC. Define cómo se almacenan y se relacionan los datos antes de crear las rutas, controladores o lógica de negocio.
+Gracias a este esquema, funcionalidades como comentar, dar like, seguir usuarios o mostrar posts pueden construirse con claridad y solidez.
+
+✍️ Autor
+Alejandra Bárcena
+Bootcamp Full Stack Developer (Agosto 2025)
+
+
