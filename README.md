@@ -9,9 +9,6 @@ Este proyecto representa el modelo relacional de datos para una aplicación tipo
 Diagrama generado automáticamente desde el código:  
 ![Diagrama UML generado](diagram.png)
 
-Vista del entorno en VS Code mostrando el diagrama abierto:  
-![VS Code con diagrama](visualstudio-workspace.png)
-
 Visualización interactiva disponible aquí:  
 🔗 https://dbdiagram.io/d/Instagram_Model-6893c8c7dd90d17865ca3356
 
