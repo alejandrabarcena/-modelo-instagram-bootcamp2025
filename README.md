@@ -1,10 +1,10 @@
-# ​ Modelo de Datos - Instagram
+# Modelo de Datos - Instagram
 
 Este proyecto representa el modelo relacional de datos para una aplicación tipo Instagram, diseñado con **SQLAlchemy** y visualizado automáticamente como diagrama UML con **ERAlchemy** y **Graphviz**.
 
 ---
 
-##  Arquitectura visual (Diagrama UML)
+## 🗂 Arquitectura visual (Diagrama UML)
 
 Diagrama generado automáticamente desde el código:  
 ![Diagrama UML generado](diagram.png)
@@ -14,7 +14,7 @@ Visualización interactiva disponible aquí:
 
 ---
 
-##  Estructura del modelo
+## 🧱 Estructura del modelo
 
 | Entidad   | Relación principal                                        |
 |-----------|-----------------------------------------------------------|
@@ -26,7 +26,7 @@ Visualización interactiva disponible aquí:
 
 ---
 
-##  Tecnologías utilizadas
+## 🛠 Tecnologías utilizadas
 
 - Python 3  
 - SQLAlchemy  
@@ -36,24 +36,11 @@ Visualización interactiva disponible aquí:
 
 ---
 
-##  ¿Cómo ejecutar localmente?
+## 🚀 ¿Cómo ejecutar localmente?
 
 ```bash
-git clone https://github.com/alejandrabarcena/flask-rest-hello.git
-cd flask-rest-hello
+git clone https://github.com/alejandrabarcena/-modelo-instagram-bootcamp2025.git
+cd -modelo-instagram-bootcamp2025
 pipenv install
 pipenv shell
 pipenv run python render.py
-
-Este comando genera diagram.png en la raíz del proyecto.
-
-Sobre el modelo
-Este diseño forma parte de la capa de modelo en una arquitectura tipo MVC. Define cómo se almacenan y se relacionan los datos antes de crear las rutas, controladores o lógica de negocio. Gracias a este esquema, funcionalidades como comentar, dar like, seguir usuarios o mostrar posts pueden construirse con claridad y solidez.
-
-Autor
-Alejandra Bárcena
-Bootcamp Full Stack Developer (Agosto 2025)
-
-
-
-
